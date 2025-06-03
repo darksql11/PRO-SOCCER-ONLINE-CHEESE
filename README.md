@@ -32,7 +32,7 @@ Bu proje, Pro Soccer Online oyunu için geliştirilmiş bir hiledir. DirectX9 ve
 
 1. Oyunu başlatın
 2. Hileyi yönetici olarak çalıştırın
-3. "Connect to Game" butonuna tıklayın
+3. "Connect to Game" butonuna tıklayın (OYUN AÇIK OLMALI)
 4. İstediğiniz özellikleri aktifleştirin ve ayarlayın
 5. Menüyü açıp kapatmak için `INSERT` tuşunu kullanın
 
