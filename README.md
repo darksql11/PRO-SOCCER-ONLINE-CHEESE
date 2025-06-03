@@ -4,7 +4,7 @@ Bu proje, Pro Soccer Online oyunu için geliştirilmiş bir hilesdir. DirectX9 v
 
 ## Özellikler
 
-- 🏃: **Speed Hack**: Oyuncu hızını 1.0x - 2.0x arasında ayarlayabilme
+- 🏃 **Speed Hack**: Oyuncu hızını 1.0x - 2.0x arasında ayarlayabilme
 - :zap: **InfinityStamina**: Stamina değerini maksimumda tutma
 - :dart: **Power Shot**: Şut gücünü maksimuma çıkarma
 - :eye: **FOV Changer**: Görüş açısını 60° - 170° arasında ayarlayabilme
