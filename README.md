@@ -54,3 +54,6 @@ Bu proje, Pro Soccer Online oyunu için geliştirilmiş bir hiledir. DirectX9 ve
 ## Uyarı
 
 # CONTACT DISCORD = .DARKSQL
+
+![image](https://github.com/user-attachments/assets/9cace537-7463-4a4e-b584-11e64fcc948d)
+
