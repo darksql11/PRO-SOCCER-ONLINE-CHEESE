@@ -55,3 +55,5 @@ Bu proje, Pro Soccer Online oyunu için geliştirilmiş bir hilesdir. DirectX9 v
 Bu proje MIT lisansı altında lisanslanmıştır.
 
 # CONTACT DISCORD = .DARKSQL
+
+bu arada hilede keyauth dosyası içindedir key sistemi kurmayı bilmeyen salaklar içindir.
