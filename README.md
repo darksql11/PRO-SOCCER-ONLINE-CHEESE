@@ -57,3 +57,6 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 # CONTACT DISCORD = .DARKSQL
 
 bu arada hilede keyauth dosyası içindedir key sistemi kurmayı bilmeyen salaklar içindir.
+
+![image](https://github.com/user-attachments/assets/358a2a20-22cd-4ef8-8ec1-cf1539586f1a)
+
