@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{d21accbd-c2c1-4c4b-8faa-728067e87387}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui\backends">
+      <UniqueIdentifier>{e8dbb948-4ef3-4c34-affa-96791159c727}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="imgui\backends\imgui_impl_dx9.cpp" />
+    <ClCompile Include="imgui\backends\imgui_impl_win32.cpp" />
+    <ClCompile Include="imgui\imgui.cpp" />
+    <ClCompile Include="imgui\imgui_demo.cpp" />
+    <ClCompile Include="imgui\imgui_draw.cpp" />
+    <ClCompile Include="imgui\imgui_tables.cpp" />
+    <ClCompile Include="imgui\imgui_widgets.cpp" />
+    <ClCompile Include="ConsoleApplication1.cpp" />
+    <ClCompile Include="overlay.cpp" />
+    <ClCompile Include="Memory.cpp" />
+    <ClCompile Include="framework.cpp" />
+    <ClCompile Include="Globals.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="imgui\backends\imgui_impl_dx9.h" />
+    <ClInclude Include="imgui\backends\imgui_impl_win32.h" />
+    <ClInclude Include="imgui\imconfig.h" />
+    <ClInclude Include="imgui\imgui.h" />
+    <ClInclude Include="imgui\imgui_internal.h" />
+    <ClInclude Include="imgui\imstb_rectpack.h" />
+    <ClInclude Include="imgui\imstb_textedit.h" />
+    <ClInclude Include="imgui\imstb_truetype.h" />
+    <ClInclude Include="keyauth\auth.hpp" />
+    <ClInclude Include="keyauth\skStr.h" />
+    <ClInclude Include="keyauth\utils.hpp" />
+    <ClInclude Include="keyauth\json.hpp" />
+    <ClInclude Include="overlay.h" />
+    <ClInclude Include="SimpleMath.h" />
+    <ClInclude Include="Memory.h" />
+    <ClInclude Include="ConsoleApplication1.h" />
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="Globals.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="keyauth\library_x64.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SimpleMath.inl" />
+  </ItemGroup>
+</Project>
